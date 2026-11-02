@@ -1,39 +1,60 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Matheus Santos. Backend, AI automation and quality engineering." src="assets/hero-dark.svg" width="100%">
+  <img alt="Matheus Santos. Senior QA Engineer, SDET, API and backend." src="assets/hero-dark.svg" width="100%">
 </picture>
 
-I build backend services and AI-driven automation, and I test them like production depends on it. My work runs from real-time APIs and agent workflows down to computer vision on a Raspberry Pi and sensors inside a shoe.
+Senior QA Engineer and SDET with 10+ years across fintech, banking and healthcare. I test the backends, APIs and microservices behind financial products, and I build my own: real-time services, AI-driven automation, and computer vision on the edge.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusmss91-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/matheusmss91)
 
 ## Tech stack
 
 <table>
   <tr>
-    <td width="170"><strong>AI &amp; vision</strong></td>
-    <td><img src="assets/stack/ai.svg" alt="Python, OpenCV" height="44"> <img src="assets/stack/claude.svg" alt="Claude" height="44"></td>
+    <td width="190"><strong>Quality &amp; automation</strong></td>
+    <td><img src="assets/stack/playwright.svg" alt="Playwright" height="44"> <img src="assets/stack/quality.svg" alt="Selenium" height="44"> <img src="assets/stack/cucumber.svg" alt="Cucumber" height="44"> <img src="assets/stack/robotframework.svg" alt="Robot Framework" height="44"> <img src="assets/stack/qa-tools.svg" alt="Postman" height="44"> <img src="assets/stack/jira.svg" alt="Jira" height="44"></td>
   </tr>
   <tr>
-    <td><strong>Backend</strong></td>
-    <td><img src="assets/stack/backend.svg" alt="Node.js, Express, MongoDB, JavaScript" height="44"></td>
+    <td width="190"><strong>Languages</strong></td>
+    <td><img src="assets/stack/languages.svg" alt="Python, JavaScript, Java, C#, Kotlin, PHP" height="44"></td>
   </tr>
   <tr>
-    <td><strong>Web &amp; mobile</strong></td>
-    <td><img src="assets/stack/client.svg" alt="React, Kotlin, Android Studio, Java" height="44"></td>
+    <td width="190"><strong>Backend</strong></td>
+    <td><img src="assets/stack/backend.svg" alt="Node.js, Express, .NET, MongoDB" height="44"></td>
   </tr>
   <tr>
-    <td><strong>Quality</strong></td>
-    <td><img src="assets/stack/playwright.svg" alt="Playwright" height="44"> <img src="assets/stack/quality.svg" alt="Selenium" height="44"> <img src="assets/stack/cucumber.svg" alt="Cucumber" height="44"> <img src="assets/stack/robotframework.svg" alt="Robot Framework" height="44"></td>
+    <td width="190"><strong>AI &amp; vision</strong></td>
+    <td><img src="assets/stack/claude.svg" alt="Claude" height="44"> <img src="assets/stack/ai.svg" alt="OpenCV" height="44"></td>
   </tr>
   <tr>
-    <td><strong>IoT &amp; embedded</strong></td>
+    <td width="190"><strong>Web &amp; mobile</strong></td>
+    <td><img src="assets/stack/client.svg" alt="React, Android Studio" height="44"></td>
+  </tr>
+  <tr>
+    <td width="190"><strong>IoT &amp; embedded</strong></td>
     <td><img src="assets/stack/iot.svg" alt="Raspberry Pi, Arduino, C++" height="44"></td>
   </tr>
   <tr>
-    <td><strong>DevOps</strong></td>
-    <td><img src="assets/stack/devops.svg" alt="Docker, GitHub Actions, Linux, Bash, Git" height="44"></td>
+    <td width="190"><strong>DevOps</strong></td>
+    <td><img src="assets/stack/devops.svg" alt="GitHub Actions, Docker, Linux, Bash, Git" height="44"> <img src="assets/stack/azuredevops.svg" alt="Azure DevOps" height="44"></td>
   </tr>
 </table>
+
+## Experience
+
+| Role | Company | Period | Focus |
+|---|---|---|---|
+| **Senior QA Engineer** | Evertec | 2025 – 2026 | API and end-to-end testing for banking and credit products |
+| **QA Engineer** | WEX | 2023 – 2025 | Backend, REST API and microservice automation for payments and fleet |
+| **QA Analyst** | Madero | 2020 – 2023 | Test automation architecture with Robot Framework and Python |
+| **Test & Development Analyst** | Medibook | 2018 – 2020 | Quality and development for a healthcare platform |
+
+Earlier: Technical Support Analyst at SEB, C# Developer at Telemetrix, Software Analyst Trainee at HSBC.
+
+**Education:** B.Sc. Computer Science (UTP) · Postgraduate in Embedded Systems & IoT (Universidade Positivo) · MBA in Business Management (Cruzeiro do Sul)
+
+**Languages:** Portuguese (native) · English (fluent) · Spanish (basic)
 
 ## Selected work
 
@@ -61,7 +82,7 @@ I build backend services and AI-driven automation, and I test them like producti
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/matmss/tcc_iot_monitoramento_pisada">Gait monitoring IoT</a></h3>
-      My Embedded Systems and IoT capstone: monitoring a person's gait from sensors built into a shoe.
+      My postgraduate capstone in Embedded Systems and IoT: monitoring a person's gait from sensors built into a shoe.
       <br><br>
       <strong>Stack:</strong> an Android app in Kotlin, with live visuals drawn in Processing.
     </td>

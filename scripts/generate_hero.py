@@ -25,7 +25,7 @@ def hero(t):
     )
     sweep = (f'<path d="M700 110 L700 -50 A160 160 0 0 1 838 30 Z" '
              f'fill="url(#sweep)"/>')
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220" role="img" aria-label="Matheus Santos. Backend, AI automation and quality engineering.">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220" role="img" aria-label="Matheus Santos. Senior QA Engineer, SDET, API and backend.">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{t['top']}"/><stop offset="1" stop-color="{t['bottom']}"/></linearGradient>
 <linearGradient id="sweep" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="{t['ring']}" stop-opacity=".28"/><stop offset="1" stop-color="{t['ring']}" stop-opacity="0"/></linearGradient>
@@ -38,7 +38,7 @@ def hero(t):
 <rect x=".5" y=".5" width="839" height="219" rx="12" fill="none" stroke="{t['border']}"/>
 <text x="36" y="66" font-family="{MONO}" font-size="14" fill="{t['accent']}">Curitiba, Brazil</text>
 <text x="36" y="112" font-family="{FONT}" font-size="42" font-weight="700" fill="{t['ink']}">Matheus Santos</text>
-<text x="36" y="148" font-family="{FONT}" font-size="19" font-weight="500" fill="{t['ink']}">Backend · AI Automation · Quality Engineering</text>
+<text x="36" y="148" font-family="{FONT}" font-size="19" font-weight="500" fill="{t['ink']}">Senior QA Engineer · SDET · API &amp; Backend</text>
 <text x="36" y="178" font-family="{FONT}" font-size="15" fill="{t['sub']}">Systems that run themselves, and the tests that prove they work.</text>
 </svg>
 """
