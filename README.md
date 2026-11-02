@@ -1,10 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Matheus Santos. Senior QA Engineer, SDET, API and backend." src="assets/hero-dark.svg" width="100%">
+  <img alt="Matheus Santos. Senior QA Engineer, SDET, AI and backend." src="assets/hero-dark.svg" width="100%">
 </picture>
 
-Senior QA Engineer and SDET with 10+ years across fintech, banking and healthcare. I test the backends, APIs and microservices behind financial products, and I build my own: real-time services, AI-driven automation, and computer vision on the edge.
+Senior QA Engineer and SDET with 10+ years across fintech, banking and healthcare, working across AI and backend engineering. I test the APIs and microservices behind financial products, and I build my own systems: real-time backends, AI-driven automation, and computer vision on the edge.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusmss91-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/matheusmss91)
 
@@ -45,7 +45,7 @@ Senior QA Engineer and SDET with 10+ years across fintech, banking and healthcar
 
 | Role | Company | Period | Focus |
 |---|---|---|---|
-| **Senior QA Engineer** | Evertec | 2025 – 2026 | API and end-to-end testing for banking and credit products |
+| **Senior QA Engineer** | Evertec | 2025 – 2026 | API and end-to-end testing for banking and credit products, including a JPMorgan project |
 | **QA Engineer** | WEX | 2023 – 2025 | Backend, REST API and microservice automation for payments and fleet |
 | **QA Analyst** | Madero | 2020 – 2023 | Test automation architecture with Robot Framework and Python |
 | **Test & Development Analyst** | Medibook | 2018 – 2020 | Quality and development for a healthcare platform |
